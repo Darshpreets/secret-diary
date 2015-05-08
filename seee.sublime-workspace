@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"SE",
+				"_SESSION"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"lo",
+				"loginpassword"
+			],
+			[
+				"Q",
+				"Query"
+			],
+			[
+				"log",
+				"loginemail"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"PO",
+				"_POST"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"tamil",
+				"tamilnadu"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"get",
+				"getElementByID"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"tt",
+				"tt"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"bt",
+				"bt3"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"o",
+				"onclick	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"baac",
+				"background-image"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/se/top.php",
+			"settings":
+			{
+				"buffer_size": 1160,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/se/index.php",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/se/layout.css",
+			"settings":
+			{
+				"buffer_size": 812,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/se/container.php",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/se/register.php",
+			"settings":
+			{
+				"buffer_size": 3283,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/se"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/se/register2.php",
+		"/C/xampp/htdocs/project/login.php",
+		"/C/xampp/htdocs/project/mainpage.php",
+		"/C/xampp/htdocs/project/connection.php",
+		"/C/xampp/htdocs/project/index.php",
+		"/C/xampp/htdocs/project/updatediary.php",
+		"/C/xampp/htdocs/se/index.php",
+		"/C/xampp/htdocs/se/connection.php",
+		"/C/xampp/htdocs/se/top.php",
+		"/C/Users/Toshiba/Desktop/dream/php/New folder/signup.php",
+		"/C/xampp/htdocs/wt/postres.html",
+		"/H/WT/New folder/postres.html",
+		"/C/xampp/htdocs/test/signup.php",
+		"/H/WT/New folder/index.html",
+		"/H/WT/New folder/howres.html",
+		"/H/WT/New folder/arti.html",
+		"/C/xampp/htdocs/se/project.sql",
+		"/C/Users/Toshiba/Desktop/dream/project sd/temp.php",
+		"/C/Users/Toshiba/Desktop/dream/php/index2.php",
+		"/C/Users/Toshiba/Desktop/dream/php/wg.php",
+		"/C/Users/Toshiba/Desktop/dream/php/signup.php",
+		"/C/xampp/htdocs/project/signup.php",
+		"/C/xampp/htdocs/project/index2.php",
+		"/C/xammmp/htdocs/php/wg.php",
+		"/C/xampp/htdocs/php/myspl/index.php",
+		"/C/Users/Toshiba/Desktop/dream/php/php.ini",
+		"/C/Users/Toshiba/Desktop/dream/javascript/arithmetic.html",
+		"/C/Users/Toshiba/Desktop/dream/javascript/index.html",
+		"/C/Users/Toshiba/Desktop/dream/javascript/jj.html",
+		"/C/Users/Toshiba/Desktop/dream/web-rock.html",
+		"/C/Users/Toshiba/Desktop/dream/css/styles.css",
+		"/C/Users/Toshiba/Desktop/dream/javascript/arithmetic.js",
+		"/C/Users/Toshiba/Desktop/dream/login.html",
+		"/C/Users/Toshiba/Desktop/dream/signup.html",
+		"/C/Users/Toshiba/Desktop/dream/css/loginstyles.css",
+		"/C/Users/Toshiba/Desktop/dream/css/signupstyles.css",
+		"/C/Users/Toshiba/Desktop/javascript/index.html",
+		"/C/Users/Toshiba/Desktop/my project/style.css",
+		"/C/Users/Toshiba/Desktop/my project/signup.html",
+		"/C/Users/Toshiba/Desktop/my project/signup.css",
+		"/C/Users/Toshiba/Desktop/my project/login.html",
+		"/C/Users/Toshiba/Desktop/my project/loginstyle.css",
+		"/C/Users/Toshiba/Desktop/my project/webrock.html",
+		"/C/Users/Toshiba/Desktop/try/index.html",
+		"/C/Users/Toshiba/Desktop/n/style.css",
+		"/C/Users/Toshiba/Desktop/n/webrock.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"submit",
+			";<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/se/top.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/se/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/se/layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/se/container.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/se/register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3283,
+								3283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1401.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "seee.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
